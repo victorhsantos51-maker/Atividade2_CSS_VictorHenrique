@@ -1,0 +1,61 @@
+body{
+    background-image: url(../_images/japao.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: lightcoral;
+    text-shadow: black 2px 2px;
+}
+#contato{
+    text-align: left;
+    font-size: 30px;
+    border-style: solid;
+    border-color: lightyellow;
+    border-width: 10px;
+    width: 50%;
+    margin: auto;
+}
+#tabela{
+    border-style: solid;
+    border-color: lightyellow;
+    border-width: 10px;
+    border-radius: 5px;
+}
+th{
+    border-style: solid;
+    background-color: maroon;
+    border-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black
+}
+td{
+    border-style: solid;
+    background-color: lightgrey;
+    border-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black
+}
+#botao{
+    color: red;
+    text-shadow: black 1px 1px;
+    text-align: right;
+}
+hr{
+    border: 10px solid lightcoral;
+}
+footer{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bolder;
+    color: white;
+}
